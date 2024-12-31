@@ -7,7 +7,7 @@
   </a>
 </p>
 
-🔭 I’m currently working on [Emowell](https://github.com/EmoWell)
+🔭 I’m currently working on [Credence Marketings](https://github.com/Credence-Marketings/)
 
 🌱 I’m currently learning **Vue.js, Rust, and TypeScript**
 
